@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.8.2/junit-4.8.2.jar" sourcepath="M2_REPO/junit/junit/4.8.2/junit-4.8.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/junit/junit/4.8.2/junit-4.8.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="src" path="/heliosutils"/>
+  <classpathentry kind="var" path="M2_REPO/io/netty/netty-buffer/5.0.0.Alpha2/netty-buffer-5.0.0.Alpha2.jar" sourcepath="M2_REPO/io/netty/netty-buffer/5.0.0.Alpha2/netty-buffer-5.0.0.Alpha2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/io/netty/netty-buffer/5.0.0.Alpha2/netty-buffer-5.0.0.Alpha2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/io/netty/netty-common/5.0.0.Alpha2/netty-common-5.0.0.Alpha2.jar" sourcepath="M2_REPO/io/netty/netty-common/5.0.0.Alpha2/netty-common-5.0.0.Alpha2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/io/netty/netty-common/5.0.0.Alpha2/netty-common-5.0.0.Alpha2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" sourcepath="M2_REPO/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar" sourcepath="M2_REPO/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar" sourcepath="M2_REPO/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/media/nwhitehead/store/.m2/repository/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/oracle/jdbc/ojdbc6/12.1.0.2/ojdbc6-12.1.0.2.jar"/>
+</classpath>
